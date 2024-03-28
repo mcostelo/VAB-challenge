@@ -1,6 +1,3 @@
-# VBA Script
-## This file contains the VBA script I used to get to the end result
-
 Sub multiple_year_stock_data()
 
 Dim ws As Worksheet
