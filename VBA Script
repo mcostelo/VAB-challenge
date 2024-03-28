@@ -60,7 +60,7 @@ Dim LastRow As Long
         
         ' if the value following is the same as the value before:
         Else
-        ' add the to the volume stock
+        ' add to the volume stock and values count
         total_volume_stock = total_volume_stock + ws.Cells(i, 7).Value
         values_count = values_count + 1
     
